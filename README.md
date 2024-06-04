@@ -22,7 +22,7 @@ Erika J. Edwards[<sup id="1">1</sup>](#fn1)
 
 ## Footnotes
 <sup>1</sup><span id="fn1"></span> Department of Ecology and Evolutionary Biology, Yale University, PO Box 208106, New Haven, CT 06520, USA.  
-<sup>1</sup><span id="fn1"></span> Department of Biology, Angelo State University, ASU Station #10890, San Angelo, TX 76909, USA.  
+<sup>2</sup><span id="fn1"></span> Department of Biology, Angelo State University, ASU Station #10890, San Angelo, TX 76909, USA.  
 <sup>3</sup><span id="fn3"></span> Peabody Museum of Natural History, Yale University, PO Box 208118, New Haven, CT 06520, USA.  
 <sup>4</sup><span id="fn4"></span> Department of Ecology, Evolution &amp; Environmental Biology, Columbia University, New York, NY 10027, USA.  
 <sup>5</sup><span id="fn5"></span> Herbario Nacional de Bolivia, Instituto de Ecología, Universidad Mayor de San Andrés, La Paz, Bolivia.  
